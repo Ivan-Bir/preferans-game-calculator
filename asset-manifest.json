@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/preferans-game-calculator/static/css/main.4ba50138.css",
+    "main.js": "/preferans-game-calculator/static/js/main.8dfc378c.js",
+    "index.html": "/preferans-game-calculator/index.html",
+    "main.4ba50138.css.map": "/preferans-game-calculator/static/css/main.4ba50138.css.map",
+    "main.8dfc378c.js.map": "/preferans-game-calculator/static/js/main.8dfc378c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ba50138.css",
+    "static/js/main.8dfc378c.js"
+  ]
+}
